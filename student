@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration form</title>
+<link rel = "stylesheet" href="day64.css">
+</head>
+<body>
+    <h1>Student Registration Form</h1>
+    <form> 
+        <!-- student-->
+        <label for = "name">Full Name:</label>
+        <input type = "text" id = "name" placeholder="Write your name">
+        <br/>
+        <br/>
+        <!--Email-->
+        <label for ="email">Email</label>
+        <input type = "email" id ="email" placeholder="Your email">
+        <br/>
+        <br/>
+        <label for="phone">Mobile number:</label>
+        <input type="phone" id = "phone">
+        <br/>
+        <br/>
+        <label>Caste:</label>
+        <input type = "radio" id = "SC/ST" name = "caste">
+        <label for ="SC/ST">sc</label>
+        <input type = "radio" id = "BC" name = "caste">
+        <label for ="BC">bc</label>
+        <input type = "radio" id = "OC" name = "caste">
+        <label for ="OC">oc</label>
+       
+        <br/>
+        <br/>
+        <label for = "department">Department:</label>
+        <select id = "department">
+            <option>Select department</option>
+            <option>CSE</option>
+            <option>ECE</option>
+            <option>EEE</option>
+            <option>mechanical</option>
+        </select>
+        <br/>
+        <br/>
+        <!--signature-->
+        <label for "signature">signature:</label>
+        <br/>
+        <br/>
+        <textarea id = "signature" rows = "4" cols ="25" placeholder="your signature"></textarea>
+         <br><br>
+         <button type = "submit">register</button>
+
+    </form>
+</body>
+</html>

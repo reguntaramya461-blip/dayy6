@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>favourite things</title>
+
+<style>
+    h1{
+        color:dodgerblue;
+        text-align:centre;
+    }
+    u{
+        background-color:gray;
+    }
+    h2{
+        color:dodgerblue;
+        text-align:centre;
+    }
+    ol{
+        color:red;
+        font-size:18px;
+        background-color:darkkhaki;
+        width:200px;
+        padding:20px;
+        border:2px solid black;
+    }
+    ul{
+        color:red;
+        font-size:18px;
+        background-color:darkkhaki;
+        width:200px;
+        padding:20px;
+        border:2px solid black;
+    }
+    </style>
+    </head>
+<body>
+    <h1><u>My Favourite Things</u></h1>
+    <br/>
+    <p>Iam Ramya <i><mark>I love watching dramas</mark></i>,<mark>reading books</mark></p>
+    <p><mark>listening music</mark></p>
+    <p><u>my favourite coding platform website</u></p>
+    <a href="https://www.hackerrank.com/dashboard"> Hackerrank</a>
+    <!---ordered list--->
+    <hr/>
+    <h2>Favourite Dramas</h2>
+    <ol>
+       <li> perfect crown</li>
+       <li>goblin</li>
+       <li>tale of nine tailed</li>
+
+    </ol>
+    <hr/>
+    <h2>favourite Books</h2>
+    <ul>
+     <li>until love set us apart</li>
+     <li>power of subconcious mind</li>
+     <li>wings of fire</li>   
+    </ul>
+</body>
+</html>

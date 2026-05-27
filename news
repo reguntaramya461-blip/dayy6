@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Semantic News Website</title>
+
+    <!-- External CSS File -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Daily News</h1>
+        <p>Latest News Updates</p>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- News Section -->
+        <section>
+
+            <!-- First Article -->
+            <article>
+                <h2>Sports News</h2>
+                <p>India won the cricket match yesterday.</p>
+            </article>
+
+            <!-- Second Article -->
+            <article>
+                <h2>Technology News</h2>
+                <p>AI technology is growing rapidly.</p>
+            </article>
+
+        </section>
+
+        <!-- Sidebar -->
+        <aside>
+
+            <h2>Trending Topics</h2>
+
+            <ul>
+                <li>Sports</li>
+                <li>Technology</li>
+                <li>Movies</li>
+            </ul>
+
+        </aside>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Daily News Website</p>
+    </footer>
+
+</body>
+
+</html>

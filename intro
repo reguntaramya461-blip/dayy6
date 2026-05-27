@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My introduction</title>
+</head>
+<body>
+ <h1 style="color:rgb(78, 78, 151);">Introduction</h1>
+   <pr style="font-size:18px;text-align:center;">Iam ramya . currently iam pursuing my btech first year at keshav memorial institute of technology</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">Iam from nirmal</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">I did my schooling at MJP  and Intermediate at SR junior collge</pr>
+   <br/>
+   <hr/>
+   <h1 style="color:rgb(80, 80, 161);">skills</h1>
+   <pr style="font-size:18px;text-align:center;">C language</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">python</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">coding and building logics</pr>
+   <hr/>
+   <pr/>
+   <h1 style="color:rgb(82, 82, 176);">Hobbies</h1>
+   <pr style="font-size:18px;text-align:center;">reading</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">watching animes</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">talking and laughing</pr>
+   <br/>
+   <pr style="font-size:18px;text-align:center;">listening music</pr>
+   <hr/>
+   <h1 style="color:rgb(79, 79, 165);">Goal</h1>
+   <pr style="font-size:18px;text-align:center;">To secure a stable financial job</pr>   
+</body>
+</html>

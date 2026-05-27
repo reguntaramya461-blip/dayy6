@@ -1,0 +1,48 @@
+body{
+    background-color: lightblue;
+    font-family: Arial;
+}
+h1{
+    text-align:center;
+    color:darrkblue;
+}
+form{
+    background-color: white;
+    width:400px;
+    margin:auto;
+    padding:18px;
+    border-radius:10px;
+    border:2px solid black;
+}
+label{
+    font-size: 18px;
+    color: darkred;
+}
+
+input{
+    width: 95%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+select{
+    width: 100%;
+    padding: 8px;
+}
+
+textarea{
+    width: 100%;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
